@@ -52,23 +52,27 @@ p{
     font-weight: normal;
 }
 
+.hell{
+    font-size: 20px;
+}
+
 .skill-row{
-    width: 50%;
+    width: 700px;;
     text-align: left;
     margin: 100px auto;
     line-height: 2;
 }
 
 .computer{
-    width: 35%;
+    width: 270px;
     float: left;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 .chilly{
     float: right;
-    width: 35%;
-    margin-left: 30px;
+    width: 270px;
+    margin-left: 50px;
 }
 
 hr{
@@ -77,11 +81,6 @@ hr{
     height: 0px;
     border-width: 5px;
     border-color: #EAF6F6;
-}
-
-.descrip{
-    color: #40514E;
-    width: 15%;
 }
 
 .profile{
@@ -143,9 +142,11 @@ hr{
     color: #11999E;
     text-decoration: none;
     margin: 20px;
+    font-size: 150%;
 }
 
 .bottom p{
     margin-top: 30px;
     color: #EAF6F6;
+    font-size: 80%;
 }
