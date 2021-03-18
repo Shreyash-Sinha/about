@@ -126,7 +126,7 @@ hr{
    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
-   -webkit-border-radius: 20px;
+   -webkit-border-radius: 10px;
    -moz-border-radius: 20px;
    border-radius: 10px;
    text-decoration: none;
